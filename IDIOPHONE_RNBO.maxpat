@@ -190,7 +190,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 45.0, -995.0, 1219.0, 921.0 ],
+						"rect" : [ 45.0, -995.0, 1222.0, 921.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -28734,7 +28734,7 @@
 ,
 																	"rnbo_serial" : 1,
 																	"rnbo_uniqueid" : "message_obj-8",
-																	"text" : "1"
+																	"text" : "4.48"
 																}
 
 															}
@@ -38731,6 +38731,13 @@
 								}
 
 							}
+,
+							"cpp-export" : 							{
+								"cpp-code-export" : 								{
+									"export_name" : "rnbo_source.cpp"
+								}
+
+							}
 
 						}
 
@@ -38911,7 +38918,7 @@
 							}
 ,
 							"fm_ratio" : 							{
-								"value" : 1.0
+								"value" : 4.48
 							}
 ,
 							"ji_enable" : 							{
@@ -39509,7 +39516,7 @@
 										}
 ,
 										"fm_ratio" : 										{
-											"value" : 1.0
+											"value" : 4.48
 										}
 ,
 										"ji_enable" : 										{
